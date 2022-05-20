@@ -1,0 +1,2 @@
+D:\Study\ООП\Project5.1(A)\x64\Debug\UnitTest1.dll.lastcodeanalysissucceeded
+D:\Study\ООП\Project5.1(A)\UnitTest1\x64\Debug\NativeCodeAnalysis.read.1.tlog
